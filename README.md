@@ -26,3 +26,8 @@
    ```bash
    git clone https://github.com/yourusername/saath.git
    cd saath
+
+2. **Install Dependencies**:
+  ```bash
+  npm install
+
